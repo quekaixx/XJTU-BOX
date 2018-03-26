@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/XJTUBOX.iml" filepath="$PROJECT_DIR$/XJTUBOX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XJTU-BOX.iml" filepath="$PROJECT_DIR$/XJTU-BOX.iml" />
+      <module fileurl="file://C:\Users\zhaohang\Desktop\New folder\XJTU-BOX\XJTUBOX.iml" filepath="C:\Users\zhaohang\Desktop\New folder\XJTU-BOX\XJTUBOX.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -23,7 +23,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 
 public class Services {
-    private static final String BASE_URL = "https://app.eeyes.net/zhao_hang/eeyeschuangyigongfang/1.0.0/";
+    private static final String BASE_URL = "http://47.93.26.176:12345/zhao_hang/eeyeschuangyigongfang/1.0.0/";
 
     //用于存储已经创建的service代理
     //一个Service只实例化一次
